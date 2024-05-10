@@ -6,6 +6,7 @@ const CompB = ({obj}) => {
           <h1 className='head'>hello</h1>  
           <h2>Name:{obj.name}</h2>
           <h2>Age:{obj.age}</h2>
+          <h3></h3>
         </>
     );
 };
